@@ -9,7 +9,8 @@
 ```
 var ld = litdate();
 ld.y // 2017;
-ld.format('y-m-d H:i:s'); // 2017-12-05 22:16:07
+ld.format('Y-m-d H:i:s'); // 2017-12-05 22:16:07
+ld.format('y年n月j日 G时I分S秒'); // 17年12月5日 22时16分7秒
 ```
 
 ## 属性与方法
