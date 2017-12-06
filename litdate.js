@@ -56,6 +56,8 @@
                 o = Y + 1;
             }
         }
+        var e = W;
+        W = W < 10 ? '0' + W : '' + W;
 
         var G = date.getHours();
         var g = G % 12 ? G % 12 : 12;
@@ -76,6 +78,7 @@
             z: z,
             Z: Z,
             W: W,
+            e: e,
             m: m,
             n: n,
             t: t,
