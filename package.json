@@ -1,0 +1,19 @@
+{
+    "name": "litdate",
+    "version": "1.0.0",
+    "description": "Lightweight date util, format like date() in php, without timezone & i18n.",
+    "main": "litdate.js",
+    "scripts": {
+        "test": "mocha test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@gitee.com:xiongliding/litdate.git"
+    },
+    "keywords": ["date", "format"],
+    "author": "XiongLiding",
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "^8.0.1"
+    }
+}
