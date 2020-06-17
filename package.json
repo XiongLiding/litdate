@@ -1,5 +1,5 @@
 {
-    "name": "litdate",
+    "name": "@xiongliding/litdate",
     "version": "1.0.0",
     "description": "Lightweight date util, format like date() in php, without timezone & i18n.",
     "main": "litdate.js",

@@ -11,7 +11,7 @@
 现在可以通过 npm 安装和使用 litdate 了。
 
 ```
-npm install litdate
+npm install @xiongliding/litdate
 ```
 
 ### node
